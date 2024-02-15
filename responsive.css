@@ -166,8 +166,74 @@
 
     }
 
+    .modal-title-hadding {
+        margin-bottom: 14px;
+    }
+
+    .modal-content-box {
+        margin-bottom: 14px;
+
+    }
+
     .mmtc-hero-section {
         padding: 0 10px;
         margin-top: 20px;
+    }
+
+    .modal-title-hadding h2 {
+        font-size: 20px;
+
+    }
+
+    .modal-title-hadding p {
+        font-size: 14px !important;
+        margin-top: 0 !important;
+
+    }
+
+    .modal-title-hadding p strong {
+
+        font-size: 14px;
+
+    }
+
+    .modal-content-box p {
+        font-size: 12px;
+    }
+
+    .modal-content-info {
+        padding-bottom: 0;
+    }
+
+    .modal-content-wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .modal-content-img {
+        margin-bottom: 20px;
+    }
+
+    .modal-content-img img {
+        height: 155px;
+        width: 100%;
+    }
+
+    .modal-content-img-sm {
+        display: block !important;
+    }
+
+    .modal-content-img-lg {
+        display: none !important;
+    }
+
+    .closeBtn {
+        width: 36px;
+        height: 36px;
+        right: -3px;
+        top: -7px;
+    }
+
+    .closeBtn svg {
+        width: 20px;
     }
 }
