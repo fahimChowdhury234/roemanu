@@ -190,8 +190,14 @@ ul {
 
 }
 
+.modal-content-img .modal-content-img-lg {
+    min-height: 550px;
+    max-height: 550px;
+}
+
 .modal-content-img img {
     border-radius: 6px;
+
 }
 
 .closeBtn {
